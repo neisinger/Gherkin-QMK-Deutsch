@@ -9,3 +9,6 @@ German Layout for QMK powered Gherkin Keyboard
 
 Layout:
 ![alt text](https://github.com/Madad1996/Gherkin-QMK-Deutsch/blob/master/Layout.png)
+
+Layer 0
+
