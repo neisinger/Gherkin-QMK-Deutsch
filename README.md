@@ -2,13 +2,22 @@
 
 German Layout for QMK powered Gherkin Keyboard
 
-//TODO :
-//MEHR SONDERZEICHEN
-//COPY-PASTE AUF EINE TASTE
-//
+TODO :
+- MEHR SONDERZEICHEN
+- COPY-PASTE AUF EINE TASTE
+- port to KMK
+
 
 Layout:
-![alt text](https://github.com/Madad1996/Gherkin-QMK-Deutsch/blob/master/Layout.png)
+![german_qmk_layout](https://github.com/Madad1996/Gherkin-QMK-Deutsch/blob/master/Layout.png)
 
 Layer 0
+
+Layer 1
+
+Layer 2
+
+Layer 3
+
+Layer 4
 
