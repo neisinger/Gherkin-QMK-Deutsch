@@ -7,7 +7,7 @@ TODO :
 - COPY-PASTE AUF EINE TASTE
 
 Layer 0:
-![](https://github.com/neisinger/Gherkin-QMK-Deutsch/blob/qmk_gherkin_DE/images/kb2040-gherkin-german---layer-0---v0-1.png)
+![](http://www.keyboard-layout-editor.com/#/gists/f31221d3be9c01af15d412264835ac52)
 
 Layer 1
 
