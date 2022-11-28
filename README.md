@@ -8,9 +8,11 @@ TODO :
 
 LAYER 0:
 
-![Layer 0](https://github.com/neisinger/Gherkin-QMK-Deutsch/blob/master/kb2040-gherkin-german---layer-0---v0-1.png)
+![Layer 0](https://github.com/neisinger/Gherkin-QMK-Deutsch/blob/master/images/kb2040-gherkin-german---layer-0---v0-1.png)
 
-Layer 1
+LAYER 1:
+
+![Layer 0](https://github.com/neisinger/Gherkin-QMK-Deutsch/blob/master/images/kb2040-gherkin-german---layer-1---v0-1.png)
 
 Layer 2
 
